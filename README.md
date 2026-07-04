@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi, I'm Ayleen :D
 
-<!--
-**ayleen-eden/ayleen-eden** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a computer science student at the university of Innsbruck (5th semester starting 10/2026), looking for job opportunities.
 
-Here are some ideas to get you started:
+## Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+The following skills are demonstrated on my profile:
+
+- **Languages**: Java, Python, C/C++, SQL, JavaScript/TypeScript
+- **ML/Data**: PyTorch, OpenCV, NumPy, CNNs
+- **Web/Backend:** REST, HTTP
+- **Tools**: Git, Linux, Maven
+
+> But that's not all I have to offer! ;)
+
+## Projects
+- [Sign Language CNN Classifier](https://github.com/ayleen-eden/sign-language-classifier): CNN for 36-class hand gesture recognition, 88% test accuracy
+- ["The Retro Duck" Webshop](https://github.com/ayleen-eden/retro-duck-webshop): Java e-commerce app
+
+Find me on [LinkedIn](https://www.linkedin.com/in/ayleen-e-23a261334)!
