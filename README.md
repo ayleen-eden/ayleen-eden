@@ -74,6 +74,11 @@ Whether I'm training neural networks, building robust backends, or tinkering wit
   
   *Tech: Python, PyTorch, OpenCV.*
 
+* **[AirKittens Air Quality Sensor](https://github.com/ayleen-eden/airkittens-air-quality-sensor)**  
+  University team project: full-stack air quality monitoring system with BLE sensor stations, a Raspberry Pi edge gateway, and a Spring Boot/React web dashboard.
+  
+  *Tech: C++, PlatformIO, ArduinoBLE, Python, SQLite, Docker, Java, Spring Boot, JWT, PostgresSQL, React, TypeScript.*
+
 # 📊 GitHub Stats
 
 <div align="center">
