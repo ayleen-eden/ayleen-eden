@@ -5,7 +5,8 @@ I'm a computer science student at the University of Innsbruck (5th semester star
 Whether I'm training neural networks, building robust backends, or tinkering with game engines, I am always ready to learn something new!
 
 ## 🌐 Socials
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/ayleen-e-23a261334) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ayleenedenhauser@outlook.de) 
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ayleen-e-23a261334) 
 
 # 💻 Tech Stack
 
